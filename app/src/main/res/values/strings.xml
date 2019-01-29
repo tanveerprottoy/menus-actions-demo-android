@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Menus Actions Demo</string>
+    <string name="search">Search</string>
+    <string name="notification">Notification</string>
+    <string name="about">About</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+</resources>
